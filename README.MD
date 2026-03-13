@@ -3,7 +3,7 @@
 Esta carpeta contiene los resultados tangibles del motor de inferencia de **Zenith-AI**.
 
 ### Muestra de Concepto: Megaciudad Ciberpunk
-
+lucid-origin_Cinematic_wide_shot_rain-drenched_cyberpunk_megacity_at_night_heavy_volumetric_l-0.jpg
 ---
 
 ### Ficha Técnica
