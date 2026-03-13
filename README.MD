@@ -3,8 +3,7 @@
 Esta carpeta contiene los resultados tangibles del motor de inferencia de **Zenith-AI**.
 
 ### Muestra de Concepto: Megaciudad Ciberpunk
-lucid-origin_Cinematic_wide_shot_rain-drenched_cyberpunk_megacity_at_night_heavy_volumetric_l-0.jpg
----
+![Resultado Zenith-AI](lucid-origin_Cinematic_wide_shot_rain_drenched_cyberpunk_megacity_at_night_heavy_volumetric_1-0.jpg)
 
 ### Ficha Técnica
 * **Modelo de Lenguaje:** Gemini 3.0 Flash (v1beta/Google AI Studio)
@@ -19,3 +18,10 @@ El modelo logró extraer correctamente los descriptores de iluminación volumét
 
 [Ver generación original en Leonardo.ai]
 https://app.leonardo.ai/generation/image/cinematic-wide-shot-rain-drenched-cyberpunk-d13fe786-d670-4fba-87e4-b4465af00318
+
+### Prompt Maestro Ejecutado
+Este es el prompt optimizado que se utilizó para obtener el resultado visual, aplicando técnicas de *Chain-of-Thought* para asegurar la coherencia estética:
+
+**Prompt Visual:**
+```text
+Cinematic wide shot, rain-drenched cyberpunk megacity at night, heavy volumetric lighting, dense fog. Hyper-realistic wet asphalt reflecting flickering magenta and cyan neon signs. Dark, moody atmosphere, industrial decay, intricate mechanical details. Shot on 35mm lens, ultra-detailed textures, 8k resolution, melancholic aesthetic, dramatic shadows, cinematic grain.n.
